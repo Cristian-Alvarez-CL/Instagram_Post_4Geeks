@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    text-align: center;
+  }
+  
+header{
+    display: flex;
+}
+
+.hd-content-icon i{
+    margin: 50%;
+}
+
+div.hd-content-title{
+    margin-left: 6%;
+}
+
+div.hd-content-title h1, h2{
+    margin: 0;
+}
+
+section{
+    margin: 0;
+}
+
+
+.st-content-image img{
+    width: 100%;
+    height: 100%;
+  }
+
+.hd-content-title{
+    margin: 0;
+}
+
+.container{
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.ft-content-icon-g, .ft-content-icon-3{
+    display: flex;
+    padding: 0;
+    margin: 1%;
+}
+
+.ft-content-icon-1{
+    right: 1%;
+    margin: 1%;
+    margin-left: auto;
+}
